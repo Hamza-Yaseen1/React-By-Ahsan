@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-     <WelcomeMessage isLoggedIn={true}/>
+     <WelcomeMessage isLoggedIn={true} user={{name:"Hamza"}}/>
     </>
   )
 }

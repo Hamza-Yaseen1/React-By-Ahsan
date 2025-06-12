@@ -1,10 +1,11 @@
 import './App.css'
+import PostsPage from './Components/PostsPage'
 
 function App() {
 
   return (
    <>
-   hell0
+   <PostsPage/>
    </>
   )
 }
